@@ -1,6 +1,12 @@
 ###> Visual Studio settings
 .vscode
+
+###>
 /src/DataFixtures/
+/public/images
+
+/*lock*
+
 
 ###> symfony/framework-bundle ###
 /.env.local
